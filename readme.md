@@ -17,23 +17,23 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing React Webpack Starter
 
-To install <project_name>, follow these steps:
+To install react-webpack-starter, follow these steps:
 
 Linux and macOS:
 ```
-<install_command>
+npm install
 ```
 
 Windows:
 ```
-<install_command>
+npm install
 ```
 ## Using React Webpack Starter
 
-To use <project_name>, follow these steps:
+To use react-webpack-starter, follow these steps:
 
 ```
-<usage_example>
+npm run start
 ```
 
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
