@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
 * You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
 * You have read `<guide/link/documentation_related_to_project>`.
 
-## Installing <project_name>
+## Installing React Webpack Starter
 
 To install <project_name>, follow these steps:
 
@@ -28,7 +28,7 @@ Windows:
 ```
 <install_command>
 ```
-## Using <project_name>
+## Using React Webpack Starter
 
 To use <project_name>, follow these steps:
 
@@ -38,7 +38,7 @@ To use <project_name>, follow these steps:
 
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
-## Contributing to <project_name>
+## Contributing to React Webpack Starter
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 To contribute to <project_name>, follow these steps:
 
